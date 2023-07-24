@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VNTransLine.github.io/static/css/main.ae4a15bb.css",
-    "main.js": "/VNTransLine.github.io/static/js/main.f424ad94.js",
+    "main.css": "/VNTransLine.github.io/static/css/main.de3b5682.css",
+    "main.js": "/VNTransLine.github.io/static/js/main.6ec7abf8.js",
     "static/media/vnlogo.png": "/VNTransLine.github.io/static/media/vnlogo.bd8fe353647ffbd947b8.png",
     "static/media/L_T-removebg-preview.png": "/VNTransLine.github.io/static/media/L_T-removebg-preview.e52cc1350e8e0b5226f9.png",
     "static/media/jm-removebg-preview.png": "/VNTransLine.github.io/static/media/jm-removebg-preview.0e60046874d348b617eb.png",
@@ -11,11 +11,11 @@
     "static/media/oc.png": "/VNTransLine.github.io/static/media/oc.f12d84c4d4e97738801d.png",
     "static/media/vdipl-removebg-preview.png": "/VNTransLine.github.io/static/media/vdipl-removebg-preview.51564e5154bcfe96c5f1.png",
     "index.html": "/VNTransLine.github.io/index.html",
-    "main.ae4a15bb.css.map": "/VNTransLine.github.io/static/css/main.ae4a15bb.css.map",
-    "main.f424ad94.js.map": "/VNTransLine.github.io/static/js/main.f424ad94.js.map"
+    "main.de3b5682.css.map": "/VNTransLine.github.io/static/css/main.de3b5682.css.map",
+    "main.6ec7abf8.js.map": "/VNTransLine.github.io/static/js/main.6ec7abf8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae4a15bb.css",
-    "static/js/main.f424ad94.js"
+    "static/css/main.de3b5682.css",
+    "static/js/main.6ec7abf8.js"
   ]
 }
