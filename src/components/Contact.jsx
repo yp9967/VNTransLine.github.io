@@ -56,12 +56,12 @@ const Contact = () => {
               referrerpolicy="no-referrer-when-downgrade"
             ></iframe> */}
 
-            <iframe
+            {/* <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.395923636122!2d73.11464637445049!3d19.002267582187244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e8460ead3c2f%3A0x5033f6638a9690b!2sNavkar%20Sales%20and%20Service!5e0!3m2!1sen!2sin!4v1690027920065!5m2!1sen!2sin"
               width="400"
               height="260"
               aria-hidden="true"
-            ></iframe>
+            ></iframe> */}
           </div>
         </div>
       </div>

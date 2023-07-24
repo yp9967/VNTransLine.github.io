@@ -52,12 +52,12 @@ const Clients= () => {
       name="clients"
       className="bg-gradient-to-b from-gray-800 to-black w-full h-screen"
     >
-      <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
-        <div>
-          <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
+      <div className="max-w-screen-lg mx-auto p-2 flex flex-col justify-center w-full h-full text-white ">
+        <div className="pt-12">
+          <p className="text-4xl font-bold border-b-4 border-gray-500  inline">
             Clients
           </p>
-          <p className="py-6">
+          <p className="pt-4">
             Partnering with these reputed Construction Companie, the prominent players in the
             industry, hace been instrumental in executing successful projects.
             Their commitments to innovation and adherence to strict quality
